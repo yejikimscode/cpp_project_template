@@ -1,0 +1,12 @@
+#Build
+build/**
+
+#VScode
+.vscode/**
+.idea/**
+.cache/**
+.history?**
+
+#Windows
+.DS_Store
+ 
